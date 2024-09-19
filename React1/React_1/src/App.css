@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+.book-reviews {
+  text-align: left;
+  margin: 20px auto;
+  width: 50%;
+}
+
+.book-reviews h5 {
+  margin-bottom: 10px;
+}
+
+.book-reviews p {
+  margin: 10px 0;
+}

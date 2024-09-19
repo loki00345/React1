@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.city-images img {
+  width: 800px;
+  height: auto;
+  margin: 10px;
+}
+
+main {
+  padding: 20px;
+}
